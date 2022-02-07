@@ -8,16 +8,16 @@ Parallel Programming and Discrete Structures II
 
 ### Connect with me:
 
-[<img align="left" alt="samerSaber | LinkedIn" width="22px" src="./img/linkedin-light.svg#gh-light-mode-only" style="padding-right:10px;" /><img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="./img/linkedin-dark.svg#gh-dark-mode-only" style="padding-right:10px;" />][linkedin]
+[<img align="left" alt="samerSaber | LinkedIn" width="22px" src="./img/linkedin-light.svg#gh-light-mode-only" style="padding-right:10px;" /><img align="left" alt="samersaber | LinkedIn" width="22px" src="./img/linkedin-dark.svg#gh-dark-mode-only" style="padding-right:10px;" />][linkedin]
 
 <br />
 
 ### Languages:
-[<img align="left" alt="Sass" width="26px" src="./img/icons8-java-48.png" style="padding-right:10px;" />][java]
-[<img align="left" alt="Sass" width="26px" src="./img/c-logo.png" style="padding-right:10px;" />][C]
+[<img align="left" alt="java" width="26px" src="./img/icons8-java-48.png" style="padding-right:10px;" />][java]
+[<img align="left" alt="c" width="26px" src="./img/c-logo.png" style="padding-right:10px;" />][C]
 [<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][js]
-[<img align="left" alt="Sass" width="26px" src="./img/php-logo.png" style="padding-right:10px;" />][php]
-[<img align="left" alt="Sass" width="26px" src="./img/sql-logo.png" style="padding-right:10px;" />][sql]
+[<img align="left" alt="php" width="26px" src="./img/php-logo.png" style="padding-right:10px;" />][php]
+[<img align="left" alt="sql" width="26px" src="./img/sql-logo.png" style="padding-right:10px;" />][sql]
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][html]
 [<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][css]
 
@@ -25,9 +25,9 @@ Parallel Programming and Discrete Structures II
 
 ### Tools:
 
-[<img align="left" alt="Sass" width="26px" src="./img/eclipse-logo.png" style="padding-right:10px;" />][eclipse]
+[<img align="left" alt="eclipse" width="26px" src="./img/eclipse-logo.png" style="padding-right:10px;" />][eclipse]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][vscode]
-[<img align="left" alt="Sass" width="26px" src="./img/android-logo.png" style="padding-right:10px;" />][androidstudio]
+[<img align="left" alt="androidStudio" width="26px" src="./img/android-logo.png" style="padding-right:10px;" />][androidstudio]
 [<img align="left" alt="MySQL" width="26px" src="./img/mysql-logo.png" style="padding-right:10px;" />][mysql]
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][git]
 
