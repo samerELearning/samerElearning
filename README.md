@@ -13,7 +13,7 @@
 <br />
 
 ### Languages:
-[<img align="left" alt="java" target="_blank" width="26px" src="./img/icons8-java-48.png" style="padding-right:10px;" />][java]
+[<img align="left" alt="java" width="26px" src="./img/icons8-java-48.png" style="padding-right:10px;" />][java]
 [<img align="left" alt="c" width="26px" src="./img/c-logo.png" style="padding-right:10px;" />][C]
 [<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][js]
 [<img align="left" alt="php" width="38px" src="./img/PHP-logo.svg.png" style="padding-right:10px;" />][php]
@@ -37,7 +37,7 @@
 ---
 
 
-[linkedin]: https://www.linkedin.com/in/samer-saber-6a8a241aa/
+[linkedin]:(https://www.linkedin.com/in/samer-saber-6a8a241aa/){target="_blank"}
 [java]: https://www.google.com/search?q=java&rlz=1C1CHZL_enLB760LB760&biw=1229&bih=588&sxsrf=APq-WBvJRV3GmHEGTtqVvzOsgdZtqfc7aA%3A1644252955768&ei=G08BYuW2LvPB8gLX2IToDQ&ved=0ahUKEwilsOXKh-71AhXzoFwKHVcsAd0Q4dUDCA4&uact=5&oq=java&gs_lcp=Cgdnd3Mtd2l6EAMyBAgjECcyBwgAELEDEEMyBAgAEEMyBAgAEEMyBAgAEEMyBAgAEEMyBAgAEEMyCggAEIAEEIcCEBQyBQgAEIAEMgUIABCABDoHCCMQsAMQJzoICAAQsAMQkQI6BwgAELADEEM6CAgAEIAEELADOgsIABCABBCxAxCwAzoWCC4QgAQQsQMQxwEQ0QMQyAMQsAMYADoQCC4QgAQQsQMQyAMQsAMYADoMCC4QyAMQsAMQQxgAOhMILhCxAxDHARCvARDIAxCwAxgAOgcIIxDqAhAnOgsILhCxAxDHARDRAzoICAAQgAQQsQM6BAguEENKBAhBGAFKBAhGGAFQ1gdYshFg1xJoAnAAeACAAcoBiAGjBJIBBTAuMi4xmAEAoAEBsAEKyAESwAEB2gEGCAAQARgI&sclient=gws-wiz
 [C]: https://www.google.com/search?q=C&rlz=1C1CHZL_enLB760LB760&biw=1229&bih=588&sxsrf=APq-WBuYUXK1PwV-FkOdjgreu94nRSD4PQ%3A1644252964241&ei=JE8BYuCcDsbvkgXSrIioCA&ved=0ahUKEwjgvurOh-71AhXGt6QKHVIWAoUQ4dUDCA4&uact=5&oq=C&gs_lcp=Cgdnd3Mtd2l6EAMyBAgjECcyBAgjECcyBAgjECcyBAgAEEMyBAgAEEMyCgguEMcBENEDEEMyBQgAEIAEMgUIABCABDIFCAAQgAQyCAgAEIAEELEDOgcIIxCwAxAnOgcIABBHELADOgcIABCwAxBDOgoIABDkAhCwAxgAOgwILhDIAxCwAxBDGAE6EgguEMcBENEDEMgDELADEEMYAToHCAAQsQMQQzoECC4QQzoHCCMQ6gIQJ0oECEEYAEoECEYYAVCmB1iMFmDkGmgCcAJ4AoAByAGIAYQGkgEFMC4zLjGYAQCgAQGwAQrIARLAAQHaAQYIABABGAnaAQYIARABGAg&sclient=gws-wiz
 [js]: https://www.google.com/search?q=js&source=lmns&bih=588&biw=1229&rlz=1C1CHZL_enLB760LB760&hl=en&sa=X&ved=2ahUKEwjPo9Csie71AhVB7rsIHdQDDcMQ_AUoAHoECAEQAA#cobssid=s
