@@ -1,7 +1,7 @@
 ## I'm a senior student majoring in Computer Science at LAU Byblos
 
 - 👨‍🎓 I’m currently taking 5 courses: Mobile Computing, Script Programming, Software Engineering,
-Parallel Programming and Discrete Structures II 
+     Parallel Programming and Discrete Structures II 
 - 💻 I’m available for job opporunities
 - 🎯 2022 Goals: Complete atleast 1 internship, Graduate in Fall 2022
 - ♟️ Fun fact: I love to play chess
