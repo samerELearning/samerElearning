@@ -1,4 +1,4 @@
-## I'm a senior student majoring in Computer Science at LAU Byblos ![](https://komarev.com/ghpvc/?username=samerelearning&color=blue)
+## I'm a senior student majoring in Computer Science at LAU Byblos    ![](https://komarev.com/ghpvc/?username=samerelearning&color=blue)
 - 👨‍🎓 I’m currently taking 5 courses: Mobile Computing, Script Programming, Software Engineering,
      Parallel Programming and Discrete Structures II 
 - 💻 I’m available for job opporunities
