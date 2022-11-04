@@ -37,12 +37,10 @@
 
 <!--Most Used Languages start-->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samerelearning)](https://github.com/samerelearning/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samerelearning&langs_count=8)](https://github.com/samerelearning/github-readme-stats)
 
 <!--Most Used Languages end-->
-<!-- Test -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samerelearning&langs_count=8)(https://github.com/samerelearning/github-readme-stats)
-<!-- Test -->
+
 <br />
 <br />
 
