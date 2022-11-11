@@ -37,7 +37,7 @@
 
 <!--Most Used Languages start-->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samerelearning&langs_count=10&exclude_repo=github-slideshow,Software-Engineering-Spring-2022)](https://github.com/samerelearning/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samerelearning&langs_count=6&exclude_repo=github-slideshow,Software-Engineering-Spring-2022)](https://github.com/samerelearning/github-readme-stats)
 
 <!--Most Used Languages end-->
 
