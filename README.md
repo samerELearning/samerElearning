@@ -14,7 +14,7 @@
 ### Languages:
 [<img align="left" alt="java" width="26px" src="./img/icons8-java-48.png" style="padding-right:10px;" />][java]
 [<img align="left" alt="c" width="26px" src="./img/c-logo.png" style="padding-right:10px;" />][C]
-[<img align="left" alt="c#" width="30px" src="./img/C-sharp-logo.png" style="padding-right:10px;" />][C]
+[<img align="left" alt="c#" width="32px" src="./img/C-sharp-logo.png" style="padding-right:10px;" />][C]
 [<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][js]
 [<img align="left" alt="php" width="38px" src="./img/PHP-logo.svg.png" style="padding-right:10px;" />][php]
 [<img align="left" alt="sql" width="40px" src="./img/sql-logo.png" style="padding-right:10px;" />][sql]
