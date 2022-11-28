@@ -19,6 +19,7 @@
 [<img align="left" alt="c#" width="34px" src="./img/C-sharp-logo.png" style="padding-right:10px;" />][C]
 [<img align="left" alt="python" width="34px" src="./img/python-logo.png" style="padding-right:10px;" />][C]
 [<img align="left" alt="r" width="34px" src="./img/r-logo.png" style="padding-right:10px;" />][C]
+[<img align="left" alt="regex" width="34px" src="./img/regex-logo.png" style="padding-right:10px;" />][C]
 [<img align="left" alt="sql" width="40px" src="./img/sql-logo.png" style="padding-right:10px;" />][sql]
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][html]
 [<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][css]
