@@ -7,7 +7,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="samerSaber | LinkedIn" width="22px" src="./img/linkedin-logo" style="padding-right:10px;" />][linkedin]
+[<img align="left" alt="samerSaber | LinkedIn" width="22px" src="./img/linkedin-logo.png" style="padding-right:10px;" />][linkedin]
 
 <br />
 
