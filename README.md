@@ -32,7 +32,7 @@
 [<img align="left" alt="eclipse" width="26px" src="./img/eclipse-logo.png" style="padding-right:10px;" />][eclipse]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][vscode]
 [<img align="left" alt="androidStudio" width="26px" src="./img/android-logo.png" style="padding-right:10px;" />][androidstudio]
-[<img align="left" alt="rStudio" width="34px" height="25px" src="./img/r-studio-logo.png" style="padding-right:10px;" />][androidstudio]
+[<img align="left" alt="rStudio" width="36px" height="34px" src="./img/r-studio-logo.png" style="padding-right:10px;" />][androidstudio]
 [<img align="left" alt="MySQL" width="26px" src="./img/mysql-logo.png" style="padding-right:10px;" />][mysql]
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][git]
 
