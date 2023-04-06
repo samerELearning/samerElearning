@@ -1,8 +1,7 @@
 ## I'm a senior student majoring in Computer Science at LAU Byblos ![](https://komarev.com/ghpvc/?username=samerelearning&color=blue)
-- 👨‍🎓 I’m currently taking 6 courses: Web programming, Game Programming, Final Year Project,
-     Computer Networks, Data Mining and Linear Algebra.
+- 👨‍🎓 I’m currently working on my Final Year Project.
 - 💻 I’m available for job opporunities
-- 🎯 2023 Goals: Complete atleast 1 internship, Graduate in Spring 2023
+- 🎯 2023 Goals: Complete atleast 1 internship, Graduate in Spring 2024
 - ♟️ Fun fact: I love to play chess!
 
 ### Connect with me:
