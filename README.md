@@ -1,9 +1,9 @@
 ## Senior student majoring in Computer Science at LAU Byblos ![](https://komarev.com/ghpvc/?username=samerelearning&color=blue)
-- 👨‍💻 Computer scientist with a passion for coding and problem-solving. From tackling complex algorithms to building  software, I'm always eager to take on a new challenge.
+- 👨‍💻 Computer scientist with a passion for coding and problem-solving. From tackling complex algorithms to building  software, I'm always eager to take on a new<br>  challenge.
 - 👨‍🎓 As a senior at LAU Byblos, I'm currently working on my final year project.
 - 💻 Check out some of my recent projects on my GitHub profile, and feel free to connect with me for job opportunities or just to chat!
 - 🎯 My 2023 goals include completing another internship to gain more practical experience in the field.
-- ♟️ Fun fact: When I'm not coding, you'll find me strategizing my next chess move. I've been playing chess since I was a kid and love exploring new strategies and techniques.
+- ♟️ Fun fact: When I'm not coding, you'll find me strategizing my next chess move. I've been playing chess since I was a kid and love exploring new strategies and<br> techniques.
 
 ### Connect with me:
 
