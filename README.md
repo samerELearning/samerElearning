@@ -3,7 +3,7 @@
 - 👨‍🎓&nbsp;&nbsp;As a senior at LAU Byblos, I'm currently working on my final year project.
 - 💻&nbsp;&nbsp;Check out some of my recent projects on my GitHub profile, and feel free to connect with me for job opportunities or just to chat!
 - 🎯&nbsp;&nbsp;My 2023 goals include completing another internship to gain more practical experience in the field.
-- ♟️&nbsp;&nbsp;Fun fact: When I'm not coding, you'll find me strategizing my next chess move.<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I've been playing chess since I was a kid and love exploring new strategies and techniques.
+- ♟️&nbsp;&nbsp;&nbsp;Fun fact: When I'm not coding, you'll find me strategizing my next chess move.<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I've been playing chess since I was a kid and love exploring new strategies and techniques.
 
 ### Connect with me:
 
