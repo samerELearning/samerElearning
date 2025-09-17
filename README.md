@@ -1,6 +1,6 @@
 ## Junior Software Developer ![](https://komarev.com/ghpvc/?username=samerelearning&color=blue)
 - 👨‍💻&nbsp;&nbsp;A passion for coding and problem-solving. From tackling complex algorithms to building  software,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm always eager to take on a new  challenge.
-- 👨‍🎓&nbsp;&nbsp;&nbsp;Computer Science graduate from the Lebanese American University. Currently working as an Odoo developer for AASCI<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;computers in Luxembourg.
+- 👨‍🎓&nbsp;&nbsp;&nbsp;Computer Science graduate from the Lebanese American University. Gained experience working as an Odoo developer for AASCI<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;computers in Luxembourg.
 - 💻&nbsp;&nbsp;Check out some of my recent projects on my GitHub profile, and feel free to connect with me for job opportunities<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;or just to chat!
 - 🎯&nbsp;&nbsp;My 2025 goal is to join a leading tech company, where I can grow as a software engineer and contribute to<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;impactful, large-scale projects.
 - ♟️&nbsp;&nbsp;&nbsp;Fun fact: When I'm not coding, you'll find me strategizing my next chess move..
