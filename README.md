@@ -3,7 +3,7 @@
 - 👨‍🎓&nbsp;&nbsp;Computer Science graduate from the Lebanese American University. Gained experience working as an Odoo developer<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;for AASCIcomputers in Luxembourg.
 - 💻&nbsp;&nbsp;Check out some of my recent projects on my GitHub profile, and feel free to connect with me for job opportunities<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;or just to chat!
 - 🎯&nbsp;&nbsp;My 2025 goal is to join a leading tech company, where I can grow as a software engineer and contribute to impactful,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;large-scale projects.
-- ♟️&nbsp;&nbsp;&nbsp;Fun fact: When I'm not coding, you'll find me strategizing my next chess move..
+- ♟️&nbsp;&nbsp;Fun fact: When I'm not coding, you'll find me strategizing my next chess move..
 
 ### Connect with me:
 
